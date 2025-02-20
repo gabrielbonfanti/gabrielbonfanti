@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 🏘️ moro em blumenau-sc
 - 🤖 ensino médio completo
 -
+
